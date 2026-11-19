@@ -2,11 +2,11 @@ import java.util.ArrayList;
 
 // Lớp Sach đặt chung trong file (không có từ khóa "public")
 class Sach {
-    public String maSach;
-    public String tieuDe;
-    public String tacGia;
-    public int namXuatBan;
-    public int soLuong;
+    private String maSach;
+    private String tieuDe;
+    private String tacGia;
+    private int namXuatBan;
+    private int soLuong;
 
     public Sach(String maSach, String tieuDe, String tacGia, int namXuatBan, int soLuong) {
         this.maSach = maSach;
