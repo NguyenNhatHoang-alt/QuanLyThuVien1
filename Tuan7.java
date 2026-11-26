@@ -34,7 +34,7 @@ class Sach {
     }
 }
 
-// Lớp chính chứa hàm main phải là "public" và trùng tên file Test.java
+// Lớp chính 
 public class Tuan7 {
     public static void main(String[] args) {
         ArrayList<Sach> danhSachSach = new ArrayList<>();
